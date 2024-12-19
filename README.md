@@ -1,5 +1,7 @@
 <h1 align="center">Greetings 👋, I'm Sanjay</h1>
 <h3 align="center">Aspiring Software Developer &lt;/&gt; </h3>
+<img align="right" alt="Coding" width="400" height="300" src="/assests/coding.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ompawaskar&label=Profile%20views&color=0e75b6&style=flat" alt="ompawaskar" /> </p>
 
@@ -26,3 +28,13 @@
 ![deathblare10's Stats](https://github-readme-stats.vercel.app/api?username=deathblare10&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![deathblare10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deathblare10&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=deathblare10&theme=default&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=deathblare10&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
