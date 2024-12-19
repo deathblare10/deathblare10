@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Sanjay</h1>
+<h1 align="center">Hello👋, I'm Sanjay</h1>
 <h3 align="center">Aspiring Software Developer &lt;/&gt; </h3>
 <img align="right" alt="Coding" width="400" height="300" src="/assests/coding.gif">
 
