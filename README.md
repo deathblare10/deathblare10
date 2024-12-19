@@ -1,90 +1,28 @@
-# Hi, I'm Sanjay Deshmukh
+<h1 align="center">Greetings 👋, I'm Sanjay</h1>
+<h3 align="center">Aspiring Software Developer &lt;/&gt; </h3>
 
-I am a second year student, persuising bachlors from VIT Pune 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ompawaskar&label=Profile%20views&color=0e75b6&style=flat" alt="ompawaskar" /> </p>
 
+- 🌱 I’m currently learning **everything.**
 
+- 👯 I’m looking to collaborate on **innovative project ideas that have the potential to make a meaningful impact on society.**
 
-![](https://github-profile-trophy.vercel.app/?username=cxyfreedom&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+- 💬 Ask me about **Development**
 
-**🐱 My GitHub Data** 
-
-> 🏆 9 Contributions in the Year 2024
- > 
-> 📦 115.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 54 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    3 commits      ████████████░░░░░░░░░░░░░   50.0% 
-🌃 Evening    3 commits      ████████████░░░░░░░░░░░░░   50.0% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Tuesday      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Wednesday    3 commits      ████████████░░░░░░░░░░░░░   50.0% 
-Thursday     2 commits      ████████░░░░░░░░░░░░░░░░░   33.33% 
-Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Saturday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-Sunday       1 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.67%
-
-```
+- 📫 How to reach me **sanjadeshmukh1025@gmail.com**
 
 
-📊 **This Week I Spent My Time On** 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sanjay deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjay deshmukh" height="30" width="40" /></a>
+<a href="https://instagram.com/sanjay_d07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjay_d07" height="30" width="40" /></a>
+<a href="https://fb.com/sanjay deshmukh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanjay deshmukh" height="30" width="40" /></a>
+</p>
 
-```text
-💬 Programming Languages: 
-Python                   17 hrs 57 mins      █████████████████████░░░░   84.43% 
-YAML                     1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.4% 
-Markdown                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
-Makefile                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96% 
-TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.48%
-
-🔥 Editors: 
-PyCharm                  21 hrs 16 mins      █████████████████████████   100.0%
-
-💻 Operating System: 
-Mac                      21 hrs 16 mins      █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   8 repos             ██████████████░░░░░░░░░░░   57.14% 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Shell                    2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-
-```
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 
+![deathblare10's Stats](https://github-readme-stats.vercel.app/api?username=deathblare10&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+![deathblare10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deathblare10&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
- Last Updated on 19/12/2024
-<!--END_SECTION:waka-->
-
-<!--
-**cxyfreedom/cxyfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
